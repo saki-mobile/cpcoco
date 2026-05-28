@@ -11,7 +11,7 @@
 ## Overview
 
 <p align="center">
-  <img src="docs/framework.pdf" width="90%">
+  <img src="docs/framework.png" width="90%">
 </p>
 
 ---
