@@ -107,8 +107,3 @@ We sincerely thank the authors of:
 
 for their outstanding contributions to the collaborative perception community.
 
----
-
-## License
-
-This project is released under the Apache 2.0 License.
